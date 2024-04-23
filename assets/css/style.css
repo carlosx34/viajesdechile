@@ -1,0 +1,46 @@
+body {
+    font-family: 'Raleway';
+    color: #ffffff;
+
+}
+
+.bg-black {
+    background-color: black;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+.fa-iconos {
+    color:white;
+    width: 2em;
+}
+
+h5 {
+    text-transform: uppercase;
+}
+
+h6 {
+    text-transform: uppercase;
+}
+
+.padding-adjust {
+    margin: 10px;
+}
+
+.card {
+    height: auto; 
+  }
+.card-img-top {
+    height: 100%;
+    object-fit: cover;
+  }
+
+.padding-adjust {
+    padding: 1rem;
+}
+
+.footer {
+    margin-top: 9;
+    
+}
